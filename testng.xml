@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test  name="PI">
+    <classes>
+  <Groups name = "Smoke">
+   </Groups>
+      <class name="TestNGDemo.Tea"/>
+      <class name="TestNGDemo.Gateway"/>
+      <class name="TestNGDemo.Eqote"/>
+      <class name="TestNGDemo.ReportOrdering"/>
+      <class name="TestNGDemo.TestNGDemo"/>
+      <class name="TestNGDemo.SUI"/>
+      <class name="TestNGDemo.QuickQuote"/>
+     
+    </classes>
+  </test> <!-- Test -->
+ 
+       z
+</suite> <!-- Suite -->
